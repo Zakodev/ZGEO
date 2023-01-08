@@ -1,6 +1,6 @@
-# ZRAIDEUR
+# ZGEO
 
-ZGEO est un script pour raid les serveur discord !
+ZGEO est un script pour localisé aproximativement les ip !
 
 ### Pré-requis
 
